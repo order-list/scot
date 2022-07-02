@@ -1,0 +1,2 @@
+# scot
+Frontend, bootstrap project.
